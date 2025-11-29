@@ -17,5 +17,5 @@ current repositories (linked here for easier access): <br>
 
 <p align="center">
 our other accounts <br>
-  <a href="https://github.com/inthelittiewood">@inthelittiewood</a>,  <a href="https://github.com/renchanting">@renchanting</a>,  <a href="https://github.com/hippiecommune">@hippiecommune</a>, <a href="https://github.com/of-montreal">@of-montreal</a>
+  <a href="https://github.com/inthelittiewood">@inthelittiewood</a>,  <a href="https://github.com/renchanting">@renchanting</a>,  <a href="https://github.com/for-the-worthy">@for-the-worthy</a>, <a href="https://github.com/of-montreal">@of-montreal</a>
 </p>
